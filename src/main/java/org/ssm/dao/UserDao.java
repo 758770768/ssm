@@ -6,8 +6,10 @@ import org.ssm.pojo.User;
 
 public interface UserDao {
 
-	void insertUser(User user);
+	void insertUser1(User user);
 
-	
+	void insertUser2(User user);
+
+	void insertUser3(User user);
 
 }
