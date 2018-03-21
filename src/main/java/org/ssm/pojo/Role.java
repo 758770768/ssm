@@ -1,5 +1,7 @@
 package org.ssm.pojo;
 
+
+//½ÇÉ«
 public class Role {
 
 	private Integer rid;
