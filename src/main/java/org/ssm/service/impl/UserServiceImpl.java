@@ -17,7 +17,7 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public void insertUser(User user) {
-		ud.insertUser(user);
+		ud.insertUser1(user);
 	}
 
 }
