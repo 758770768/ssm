@@ -1,5 +1,5 @@
 package org.ssm.dao;
 
-public class hello {
+public class hello345 {
 
 }
