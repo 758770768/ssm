@@ -1,15 +1,12 @@
 package org.ssm.pojo;
 
-
-//½ÇÉ«
+//½ÇÉ«ÄãºÃ
 public class Role {
 
 	private Integer rid;
 	private String rname;
 	private User user;
 
-	
-	
 	public Integer getRid() {
 		return rid;
 	}
