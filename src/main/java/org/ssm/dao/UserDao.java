@@ -14,4 +14,6 @@ public interface UserDao {
 
 	void insertUser4(User user);
 
+	void insertUser444444444(User user);
+
 }
